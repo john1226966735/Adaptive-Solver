@@ -1,0 +1,10 @@
+{
+  "GPT3.5#CoT": "./solver2result/gsm8k/train/gsm8k_200-multi_step-['COT']-gpt-3.5-turbo-0301-COT_SC.json",
+  "GPT3.5#L2M": "./solver2result/gsm8k/train/22-06-04-gsm8k_200-[['L2M']]-gpt-3.5-turbo-0301-sc_n=10.json",
+  "GPT3.5#ZeroCoT": "./solver2result/gsm8k/train/00-01-54-gsm8k_200-[['ZeroCOT']]-gpt-3.5-turbo-0301-SC-sc_n=10.json",
+  "GPT3.5#PS": "./solver2result/gsm8k/train/00-04-40-gsm8k_200-[['PS']]-gpt-3.5-turbo-0301-SC-sc_n=10.json",
+  "GPT3.5#L2M_L1": "./solver2result/gsm8k/train/gsm8k_200-multi_step-['L2M_L1']-gpt-3.5-turbo-0301-sc_n=9-L2M_SC.json",
+  "GPT3.5#L2M_L2": "./solver2result/gsm8k/train/gsm8k_200-multi_step-['L2M_L2']-gpt-3.5-turbo-0301-sc_n=9-L2M_SC.json",
+  "GPT3.5#L2M_L3": "./solver2result/gsm8k/train/gsm8k_200-multi_step-['L2M_L3']-gpt-3.5-turbo-0301-sc_n=9-L2M_SC.json",
+  "GPT4#ZeroCoT": "./solver2result/gsm8k/train/13-38-17-gsm8k_200-[['ZeroCOT']]-gpt-4-sc_n=1_gpt4.json"
+}

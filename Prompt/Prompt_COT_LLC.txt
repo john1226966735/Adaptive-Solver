@@ -1,0 +1,14 @@
+Q: Take the last letters of the words in "think machine" and concatenate them.
+A: The last letter of "think" is "k". The last letter of "machine" is "e". Concatenating "k", "e" leads to "ke". The answer is "ke".
+
+Q: Take the last letters of the words in "learning reasoning generalization" and concatenate them.
+A: The last letter of "learning" is "g". The last letter of "reasoning" is "g". The last letter of "generalization" is "n". Concatenating "g", "g", "n" leads to "ggn". The answer is "ggn".
+
+Q: Take the last letters of the words in "artificial intelligence" and concatenate them.
+A: The last letter of "artificial" is "l". The last letter of "intelligence" is "e". Concatenating "l", "e" leads to "le". The answer is "le".
+
+Q: Take the last letters of the words in "transformer language vision" and concatenate them.
+A: The last letter of "transformer" is "r". The last letter of "language" is "e". The last letter of "vision" is "n". Concatenating "r", "e", "n" leads to "ren". The answer is "ren".
+
+Q: [QUES]
+A:

@@ -1,0 +1,2 @@
+Q: [QUES]
+A: Let’s devise a plan and solve the problem step by step. Please do not implement the plan in code!
