@@ -1,5 +1,5 @@
 # Introduction
-This repository is the official implementation of Adaptive-Solver (AS): Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning, which has been accepted by "Information Processing &amp; Management".
+This repository is the official implementation of Adaptive-Solver (AS): Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning, which has been accepted by "Information Processing &amp; Management" [https://www.sciencedirect.com/science/article/pii/S0306457324004114].
 
 # Installation
 pip install -r requirements.txt
